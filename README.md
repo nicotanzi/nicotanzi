@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicotanzi
-- 🎓 I am an economist who is looking foward into applying to a PhD
+- 🎓 I am an economist
 - 👨‍🏫 I’m currently teaching in Argentina
 - ⚡ Above all, I am a student, now I am  very interested in Julia, and in Heterogeneous Agents Models
 
