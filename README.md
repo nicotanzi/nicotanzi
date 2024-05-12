@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @nicotanzi
-- 🎓 I am an economist
-- 👨‍🏫 I’m currently teaching in Argentina
-- ⚡ Above all, I am a student, now I am  very interested in Julia, and in Heterogeneous Agents Models
+# Hello, I'm Nico Tanzi! 👋
+
+I'm an economist with a Master's degree, currently expanding my knowledge by pursuing another Master's degree in Data Science at the University of Texas at Austin.
+
+- 🎓 Mastering the art of Data Science at the University of Texas at Austin.
+- 💼 Applying economics and statistics in the US financial sector.
+
+
+
 
 <!---
 nicotanzi/nicotanzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
